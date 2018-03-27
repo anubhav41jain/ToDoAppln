@@ -1,0 +1,1 @@
+insert into todo(title,completed,createdtime) values('task1',false,now());
